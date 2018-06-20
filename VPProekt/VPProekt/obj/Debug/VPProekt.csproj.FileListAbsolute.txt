@@ -1,0 +1,12 @@
+C:\Users\Matej\source\repos\VPProekt\VPProekt\bin\Debug\VPProekt.exe.config
+C:\Users\Matej\source\repos\VPProekt\VPProekt\bin\Debug\VPProekt.exe
+C:\Users\Matej\source\repos\VPProekt\VPProekt\bin\Debug\VPProekt.pdb
+C:\Users\Matej\source\repos\VPProekt\VPProekt\obj\Debug\VPProekt.csprojResolveAssemblyReference.cache
+C:\Users\Matej\source\repos\VPProekt\VPProekt\obj\Debug\VPProekt.Form1.resources
+C:\Users\Matej\source\repos\VPProekt\VPProekt\obj\Debug\VPProekt.Properties.Resources.resources
+C:\Users\Matej\source\repos\VPProekt\VPProekt\obj\Debug\VPProekt.csproj.GenerateResource.Cache
+C:\Users\Matej\source\repos\VPProekt\VPProekt\obj\Debug\VPProekt.csproj.CoreCompileInputs.cache
+C:\Users\Matej\source\repos\VPProekt\VPProekt\obj\Debug\VPProekt.exe
+C:\Users\Matej\source\repos\VPProekt\VPProekt\obj\Debug\VPProekt.pdb
+C:\Users\Matej\source\repos\VPProekt\VPProekt\obj\Debug\VPProekt.Game1.resources
+C:\Users\Matej\source\repos\VPProekt\VPProekt\obj\Debug\VPProekt.Game2.resources
